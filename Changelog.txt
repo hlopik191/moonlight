@@ -1,9 +1,5 @@
-hello world
+Update 0.1.5.3
 
-functional
-
-- Esp
-- Aimbot
-- Trigerbot
-- Radar
-- Configs system
+ - new menu
+ - bomb indicator
+ - fix crash
