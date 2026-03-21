@@ -2,8 +2,4 @@ Moonlight beta
 
 functional
 
-- Esp
-- Aimbot
-- Trigerbot
-- Radar
-- Configs system
+
