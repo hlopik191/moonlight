@@ -1,5 +1,3 @@
- Update 0.1.5.3
+ Update 0.1.6
 
- - new menu
- - bomb indicator
- - fix crash
+ - Update menu
