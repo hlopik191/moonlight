@@ -1,3 +1,5 @@
- Update 0.1.6
+ Update 0.1.6.2
 
+ - Updated for the new version of the game
+ - Fix bugs
  - Update menu
