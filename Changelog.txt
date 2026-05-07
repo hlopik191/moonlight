@@ -1,5 +1,7 @@
- Update 0.1.6.2
+ Update 0.38.2
 
- - Updated for the new version of the game
- - Fix bugs
- - Update menu
+ - Added World FOV 
+ - Added Hand Position 
+ - Added Sky Color 
+ - Added Auto Win
+ - Minor bug fixes
